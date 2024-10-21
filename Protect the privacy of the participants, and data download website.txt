@@ -1,0 +1,13 @@
+
+Data source of 3D building data: 
+https://source.thenbs.com/bimlibrary
+
+Data source of the satellite image data: 
+https://www.google.com/maps
+
+Data source of the POI point data: 
+https://www.openstreetmap.org/
+
+Data source of the vector building data: 
+https://www.supermapol.com/
+https://www.supermapol.com/resource-center/data/detail?id=750382659&scope=public&currentPage=1
